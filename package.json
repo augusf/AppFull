@@ -1,0 +1,25 @@
+{
+  "name": "appfull",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/augusf/AppFull.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/augusf/AppFull/issues"
+  },
+  "homepage": "https://github.com/augusf/AppFull#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "helmet": "^0.15.0",
+    "mongodb": "^2.0.52"
+  }
+}
